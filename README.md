@@ -5,7 +5,7 @@ Current projects:
 Pong (Python)
 
 Future Projects:
-To-do List with GUI (Python)
+To-do List with GUI (Python),
 Calculator with GUI (Python)
 
 Have a nice day!!!!
