@@ -1,15 +1,18 @@
 ## Hi there 👋
-2nd year university student with years of programming experience in school and at home. The main languages I use are Python with some libraries such as Flask and PyGame but I am learning C++ for software and cybersecurity purposes and hope to learn JavaScript in the future for web development purposes.
+2nd year university student with years of programming experience in school and at home. The main languages I use are Python with some libraries such as Flask and PyGame but I am learning C++ for software and cybersecurity purposes and hope to learn JavaScript in the future for web development purposes. <br/>
 
-Current projects:
-Pong (Python) br/
+Current projects: <br/>
+Pong (Python) <br/> <br/>
 
-Future Projects:
-To-do List with GUI (Python),
-Calculator with GUI (Python)
-
-Past projects:
-
+Future Projects:<br/>
+To-do List with GUI (Python)<br/>
+Calculator with GUI (Python)<br/>
+<br/>
+Past projects:<br/>
+Maze Game (Python)<br/>
+Productivity App (Python)<br/>
+2D Platformer (Python) <br/>
+<br/>
 Have a nice day!!!!
 <!--
 **SameerUH/sameeruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
