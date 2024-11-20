@@ -1,5 +1,5 @@
 ## Hi there 👋
-2nd year university student with years of programming experience in school and at home. The main languages I use are Python with some libraries such as Flask and PyGame but I am learning C++ for software and cybersecurity purposes and hope to learn JavaScript in the future for web development purposes. <br/>
+2nd year university student with years of programming experience in school and at home. The main languages I use are Python with some libraries such as Flask and PyGame but I am learning C for software and cybersecurity purposes and hope to learn JavaScript in the future for web development purposes. <br/>
 
 Current projects: <br/>
 Pong (Python) <br/> <br/>
