@@ -17,7 +17,7 @@ Pong (Python) <br/>
 <br/>
 Have a nice day!!!!
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerUH&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerUH&show_icons=true&theme=tokyonight)
 <!--
 **SameerUH/sameeruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
