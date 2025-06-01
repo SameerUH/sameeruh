@@ -16,7 +16,10 @@ Productivity App (Python)<br/>
 Pong (Python) <br/>
 <br/>
 Have a nice day!!!!
+<br><br>
 
+
+### <u>Github Statistics<u>
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerUH&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerUH&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=SameerUH&theme=radical)
