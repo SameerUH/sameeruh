@@ -1,15 +1,17 @@
-## Hi there 👋
-2nd year university student with years of programming experience in school and at home. The main languages I use are Python with some libraries such as Flask and PyGame but I am learning C for software and cybersecurity purposes and hope to learn JavaScript in the future for web development purposes. <br/>
+## Sameer | Cyber Security Enthusiast & Programmer
+2nd year computer networks and cyber security  student with years of programming experience in school and at home. The main languages I use are Python with some libraries such as Flask and PyGame but I am learning C for software and cybersecurity purposes and JavaScript for web development purposes. <br/>
 
-Current projects: <br/>
-GratiThink website & mobile app (HTML, CSS, PHP and JavaScript) <br/>
+### Current projects: <br/>
+Learning Three.js for 3D web animation (JavaScript)<br>
 
-Future Projects:<br/>
+### Future Projects:<br/>
+Portfolio Website (JavaScript) <br>
 To-do List with GUI (Python)<br/>
 Calculator with GUI (JavaScript) <br/>
 
 <br/>
-Past projects:<br/>
+### Past projects:<br/>
+GratiThink website & mobile app (HTML, CSS, PHP, JavaScript, React) <br/>
 Maze Game (Python)<br/>
 Productivity App (Python)<br/>
 2D Platformer (Python) <br/>
@@ -19,7 +21,7 @@ Have a nice day!!!!
 <br><br>
 
 
-### <u>Github Statistics<u>
+### <u>Github Statistics</u>
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerUH&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerUH&layout=compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=SameerUH&theme=radical)
