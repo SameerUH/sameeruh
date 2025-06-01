@@ -9,7 +9,6 @@ Portfolio Website (JavaScript) <br>
 To-do List with GUI (Python)<br/>
 Calculator with GUI (JavaScript) <br/>
 
-<br/>
 ### Past projects:<br/>
 GratiThink website & mobile app (HTML, CSS, PHP, JavaScript, React) <br/>
 Maze Game (Python)<br/>
