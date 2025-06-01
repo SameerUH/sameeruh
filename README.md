@@ -27,7 +27,7 @@ Have a nice day!!!!
 
 ### <u>Github Statistics</u>
 <img src="https://github-readme-stats.vercel.app/api?username=SameerUH&show_icons=true&theme=tokyonight"/> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerUH&layout=compact&theme=tokyonight" width = "150"/> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerUH&layout=compact&theme=tokyonight" width = "400"/> <br>
 <img src="https://streak-stats.demolab.com?user=SameerUH&theme=radical"/>
 
 <!--
