@@ -20,18 +20,15 @@ Have a nice day!!!!
 <br><br>
 
 
-
-### <u>Github Statistics</u>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameerUH&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerUH&layout=compact&theme=tokyonight" width="48%" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=SameerUH&theme=radical" width="95%" />
-</div>
-
 ### 📫 Contact Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/sameer-ul-haq-6861b923b/)
 - ✉️ sameerhaq2005@gmail.com
+<br><br>
+
+### <u>Github Statistics</u>
+<img src="https://github-readme-stats.vercel.app/api?username=SameerUH&show_icons=true&theme=tokyonight" width="48%" /> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerUH&layout=compact&theme=tokyonight" width="48%" /> <br>
+<img src="https://streak-stats.demolab.com?user=SameerUH&theme=radical"/>
 
 <!--
 **SameerUH/sameeruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
