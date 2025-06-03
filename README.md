@@ -1,4 +1,4 @@
-## Sameer | Cyber Security Enthusiast & Programmer
+## Sameer Haq | Cyber Security Enthusiast & Programmer
 2nd year Computer Networks and Cyber Security  student with years of programming experience in school and at home. The main languages I use are Python with some libraries such as Flask and PyGame but I am learning C for software and cybersecurity purposes and JavaScript for web development purposes. <br/>
 
 ### Current projects: <br/>
