@@ -5,7 +5,7 @@
 Learning Three.js for 3D web animation (JavaScript)<br>
 
 ### Future Projects:<br/>
-Portfolio Website (JavaScript) <br>
+Portfolio Website (HTML, PHP, CSS, JavaScript) <br>
 To-do List with GUI (Python)<br/>
 Calculator with GUI (JavaScript) <br/>
 
