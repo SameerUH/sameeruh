@@ -7,6 +7,7 @@ Portfolio Website (HTML, PHP, CSS, JavaScript) <br>
 ### Future Projects:<br/>
 To-do List with GUI (Python)<br/>
 Calculator with GUI (JavaScript) <br/>
+Home Assistant <br/>
 
 ### Past projects:<br/>
 Learning Three.js for 3D web animation (JavaScript)<br>
