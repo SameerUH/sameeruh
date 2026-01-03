@@ -2,14 +2,14 @@
 3rd year Computer Networks and Cyber Security student in my placement year with years of programming experience in school and at home. The main languages I use are Python with some libraries such as Flask and PyGame but I am learning C for software and cybersecurity purposes and JavaScript for web development purposes. <br/>
 
 ### Current projects: <br/>
-Portfolio Website (HTML, PHP, CSS, JavaScript) <br>
+To-do List with GUI (Python)<br/>
 
 ### Future Projects:<br/>
-To-do List with GUI (Python)<br/>
 Calculator with GUI (JavaScript) <br/>
 Home Assistant <br/>
 
 ### Past projects:<br/>
+Portfolio Website (HTML, PHP, CSS, JavaScript) <br>
 Learning Three.js for 3D web animation (JavaScript)<br>
 GratiThink website & mobile app (HTML, CSS, PHP, JavaScript, React) <br/>
 Maze Game (Python)<br/>
