@@ -27,9 +27,9 @@ Have a nice day!!!!
 <br><br>
 
 ### <u>Github Statistics</u>
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+![Stats](https://github-readme-stats-dun-seven-50.vercel.app/api?username=SameerUH&show_icons=true&cache_seconds=21600)
+![Top Languages](https://github-readme-stats-dun-seven-50.vercel.app/api/top-langs/?username=SameerUH&layout=compact&cache_seconds=21600)
+![Pinned](https://github-readme-stats-dun-seven-50.vercel.app/api/pin/?username=readme-tools&repo=github-readme-stats)
 <!--
 **SameerUH/sameeruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
