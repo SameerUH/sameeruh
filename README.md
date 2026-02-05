@@ -27,9 +27,9 @@ Have a nice day!!!!
 <br><br>
 
 ### <u>Github Statistics</u>
-![Sameer's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SameerUH&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerUH&layout=compact&theme=palenight" width = "400"/><br>
-<img src="https://streak-stats.demolab.com?user=SameerUH&theme=radical"/>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 <!--
 **SameerUH/sameeruh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
