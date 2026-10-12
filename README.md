@@ -1,8 +1,8 @@
 ## Sameer Haq | Cyber Security Enthusiast & Programmer
-3rd year Computer Networks and Cyber Security student in my placement year with years of programming experience in school and at home. The main languages I use are Python with some libraries such as Flask and PyGame but I am learning C for software and cybersecurity purposes and JavaScript for web development purposes. <br/>
+Final year Computer Networks and Cyber Security student with a placement year and years of programming experience both in school and at home. The main languages I use are Python with some libraries such as Flask and PyGame but I am learning C for software and cybersecurity purposes and JavaScript for web development purposes. <br/>
 
 ### Current projects: <br/>
-To-do List with GUI (React)<br/>
+Not working on anything currently...
 
 ### Future Projects:<br/>
 Calculator with GUI (JavaScript) <br/>
@@ -18,6 +18,7 @@ Maze Game (Python)<br/>
 Productivity App (Python)<br/>
 2D Platformer (Python) <br/>
 Pong (Python) <br/>
+To-do List with GUI (React)<br/>
 <br/>
 Have a nice day!!!!
 <br><br>
