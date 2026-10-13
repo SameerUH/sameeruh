@@ -5,7 +5,6 @@ Final year Computer Networks and Cyber Security student with a placement year an
 Not working on anything currently...
 
 ### Future Projects:<br/>
-Calculator with GUI (JavaScript) <br/>
 Home Assistant <br/>
 Flipper Zero scripts <br/>
 
