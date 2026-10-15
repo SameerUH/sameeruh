@@ -2,7 +2,7 @@
 Final year Computer Networks and Cyber Security student with a placement year and years of programming experience both in school and at home. The main languages I use are Python with some libraries such as Flask and PyGame but I am learning C for software and cybersecurity purposes and JavaScript for web development purposes. <br/>
 
 ### Current projects: <br/>
-Not working on anything currently...
+Secretly working on some cyber stuff (not currently gaming)...
 
 ### Future Projects:<br/>
 Home Assistant <br/>
